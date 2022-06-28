@@ -39,11 +39,7 @@ To setup this project on your local device clone it using git and then install a
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/HabibPayenda)
-- Twitter: [@twitterhandle](https://twitter.com/payendaHabib)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/HabibPayenda)
 
 ## 🤝 Contributing
 
